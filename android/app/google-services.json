@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902803847296",
+    "project_id": "signin-b81dc",
+    "storage_bucket": "signin-b81dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902803847296:android:d85db5e4fc26aae26a8e65",
+        "android_client_info": {
+          "package_name": "com.example.fluttersignin.goggle_signin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902803847296-j0jat1b6cvrpu1ohui6utk9hptpemkpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyQ98s7AEj6c4-tCEvmuFQN6xO4hdkJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902803847296-j0jat1b6cvrpu1ohui6utk9hptpemkpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
